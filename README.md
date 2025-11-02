@@ -2,14 +2,6 @@
 
 **Photogrammetry • 3D Reconstruction • WebGL • Open Source**
 
----
-
-## 🔭 I’m currently working on
-- 📸 **Photogramatory** – A full pipeline for 3D reconstruction from images using COLMAP & Open3D  
-- 🌐 **View3Dify** – Web-based 3D model viewer: upload, visualize, interact with 3D models
-
----
-
 ## 🧰 Skills & Tools
 
 | Category        | Tools / Technologies                                  |
