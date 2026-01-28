@@ -72,7 +72,3 @@ BCA graduate (June 2025) with hands-on experience in building scalable, producti
 - **LinkedIn:** https://www.linkedin.com/in/ganeshnaik02/  
 - **Email:** ganeshnaik2004@gmail.com  
 - **LeetCode:** https://www.leetcode.com/u/ganeshnaik2004/  
-
----
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SHADOW072101&show_icons=true&theme=dark)
