@@ -42,17 +42,41 @@ BCA graduate (June 2025) with hands-on experience in building scalable, producti
 
 ---
 
-## 📂 Featured Projects
+## 📂 Projects
+
+### 🔹 Resume Backend – Resume Handling Website Backend
+**Technologies:** Python, PostgreSQL, RESTful APIs, Git, VS Code  
+
+- Built a robust document ingestion and retrieval pipeline with strong data validation and error handling to ensure system reliability.
+- Designed a modular backend architecture with proper version control practices to support maintainability and team collaboration.
+- Created well-documented API interfaces to enable seamless integration across services and teams.
+
+---
 
 ### 🔹 View3Dify – 3D Model Reconstruction Web Application
-- Built an image-to-3D reconstruction pipeline using **Python, OpenCV, COLMAP, and Open3D**.
-- Converted unstructured image datasets into accurate 3D models using feature extraction and geometric calibration techniques.
-- Integrated **Meshroom** photogrammetry engine to generate production-grade 3D assets.
-- Implemented reliable frontend–backend data exchange and optimized vision workflows for scalability.
+**Technologies:** Python, OpenCV, COLMAP, Open3D, Meshroom, Git, RESTful APIs  
+
+- Developed an image-to-3D reconstruction pipeline that converts unstructured image datasets into accurate 3D models using feature extraction and geometric calibration.
+- Implemented reliable data exchange between frontend and computational backend, debugging and optimizing vision workflows for scalability.
+- Integrated the Meshroom photogrammetry engine to generate production-grade 3D assets using graph-based reconstruction pipelines.
+
+---
 
 ### 🔹 Photogrammetry Pipeline
-- Developed a complete photogrammetry pipeline covering feature extraction, matching, sparse/dense reconstruction, and texture mapping.
-- Focused on modular system design and performance optimization for large image datasets.
+**Technologies:** Python, OpenCV, Open3D  
+
+- Built an end-to-end photogrammetry pipeline including feature extraction, matching, sparse and dense reconstruction, and texture mapping.
+- Focused on modular system design and performance optimization for handling large image datasets.
+
+---
+
+### 🔹 Collaborative Task Manager – Full-Stack Task Management Platform
+**Technologies:** React.js, Node.js, Express.js, PostgreSQL, HTML, CSS, JavaScript, REST APIs, Git  
+
+- Built a complete full-stack task management application with a React frontend and a Node.js/Express backend supporting real-time task updates.
+- Implemented full CRUD functionality, authentication, and task workflow management (Backlog, To-Do, In-Progress, Done).
+- Designed and optimized PostgreSQL schemas using indexing and connection pooling, and developed secure RESTful APIs with input validation and error handling.
+- Integrated frontend and backend using structured JSON API contracts and maintained the project using Git with clear documentation.
 
 ---
 
@@ -60,8 +84,7 @@ BCA graduate (June 2025) with hands-on experience in building scalable, producti
 
 - Real-time 3D rendering  
 - Neural rendering (NeRF)  
-- GPU pipeline optimization  
-- Web-based AR/VR viewer integration  
+- GPU pipeline optimization   
 - Advanced Data Structures & Algorithms  
 
 ---
