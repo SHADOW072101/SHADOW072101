@@ -1,97 +1,17 @@
-# 👋 Hi, I’m Ganesh Naik
+# 💫 About Me:
+👨‍💻 Full-Stack Developer<br>BCA Graduate | React - Node/Express - Flask - PostgreSQL<br><br>200+ LeetCode Solved<br>API Design & Optimization<br>Git/GitHub Collaboration<br>End-to-End Projects
 
-**Full-Stack Developer | 3D Reconstruction & Photogrammetry | Problem Solver**
 
-BCA graduate (June 2025) with hands-on experience in building scalable, production-ready applications using **React.js, Node.js/Express, Python**, and **SQL/NoSQL databases**. Strong background in backend API development, full-stack system design, and computer vision–based 3D reconstruction. Experienced in solving complex problems (150+ LeetCode problems) and delivering end-to-end projects with a strong sense of ownership.
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ganeshnaik02/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ganeshnaik2004@gmail.com) 
 
----
-
-## 🧰 Technical Skills
-
-**Programming Languages**  
-- Python  
-- JavaScript  
-
-**Frameworks & Libraries**  
-- React.js  
-- Node.js  
-- Express.js  
-- Open3D  
-- Three.js  
-- OpenCV  
-
-**Databases**  
-- PostgreSQL  
-- MySQL  
-- MongoDB  
-
-**Core Concepts**  
-- Data Structures & Algorithms  
-- RESTful API Design  
-- Authentication & Authorization  
-- Backend Architecture  
-- Performance Optimization  
-- GPU Programming (Basics)  
-
-**Tools & Workflow**  
-- Git & GitHub  
-- VS Code  
-- Postman  
-- Linux/Unix  
-- Open Source Collaboration  
+# 💻 Tech Stack:
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=SHADOW072101&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=SHADOW072101&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SHADOW072101&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=SHADOW072101&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 📂 Projects
-
-### 🔹 Resume Backend – Resume Handling Website Backend
-**Technologies:** Python, PostgreSQL, RESTful APIs, Git, VS Code  
-
-- Built a robust document ingestion and retrieval pipeline with strong data validation and error handling to ensure system reliability.
-- Designed a modular backend architecture with proper version control practices to support maintainability and team collaboration.
-- Created well-documented API interfaces to enable seamless integration across services and teams.
-
----
-
-### 🔹 View3Dify – 3D Model Reconstruction Web Application
-**Technologies:** Python, OpenCV, COLMAP, Open3D, Meshroom, Git, RESTful APIs  
-
-- Developed an image-to-3D reconstruction pipeline that converts unstructured image datasets into accurate 3D models using feature extraction and geometric calibration.
-- Implemented reliable data exchange between frontend and computational backend, debugging and optimizing vision workflows for scalability.
-- Integrated the Meshroom photogrammetry engine to generate production-grade 3D assets using graph-based reconstruction pipelines.
-
----
-
-### 🔹 Photogrammetry Pipeline
-**Technologies:** Python, OpenCV, Open3D  
-
-- Built an end-to-end photogrammetry pipeline including feature extraction, matching, sparse and dense reconstruction, and texture mapping.
-- Focused on modular system design and performance optimization for handling large image datasets.
-
----
-
-### 🔹 Collaborative Task Manager – Full-Stack Task Management Platform
-**Technologies:** React.js, Node.js, Express.js, PostgreSQL, HTML, CSS, JavaScript, REST APIs, Git  
-
-- Built a complete full-stack task management application with a React frontend and a Node.js/Express backend supporting real-time task updates.
-- Implemented full CRUD functionality, authentication, and task workflow management (Backlog, To-Do, In-Progress, Done).
-- Designed and optimized PostgreSQL schemas using indexing and connection pooling, and developed secure RESTful APIs with input validation and error handling.
-- Integrated frontend and backend using structured JSON API contracts and maintained the project using Git with clear documentation.
-
----
-
-## 🌱 Currently Learning & Exploring
-
-- Real-time 3D rendering  
-- Neural rendering (NeRF)  
-- GPU pipeline optimization   
-- Advanced Data Structures & Algorithms  
-
----
-
-## 📫 Connect With Me
-
-- **GitHub:** https://github.com/SHADOW072101  
-- **LinkedIn:** https://www.linkedin.com/in/ganeshnaik02/  
-- **Email:** ganeshnaik2004@gmail.com  
-- **LeetCode:** https://www.leetcode.com/u/ganeshnaik2004/  
